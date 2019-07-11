@@ -38,5 +38,6 @@ footer {
   width: 100px;
   margin: 5px;
   background-color: #FCF2EC;
-  
+  border: 3px;
+  border-color: #000;
 }
