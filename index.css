@@ -16,7 +16,7 @@ main {
   width: 100%;
   height: 100%;
   flex-flow: column wrap;
-  justify-content: space-around;
+  justify-content: center;
 }
 
 footer {
@@ -33,8 +33,8 @@ footer {
 }
 
 .item{
-  height: 100px;
-  width: 100px;
+  height: 200px;
+  width: 300px;
   margin: 5px;
   background-color: #FCF2EC;
   
