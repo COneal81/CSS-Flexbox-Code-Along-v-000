@@ -15,8 +15,9 @@ main {
   background-color: #FBFFF4;
   width: 100%;
   height: 100%;
-  flex-flow: column wrap;
+  flex-flow: row wrap;
   justify-content: center;
+  
 }
 
 footer {
@@ -33,8 +34,8 @@ footer {
 }
 
 .item{
-  height: 200px;
-  width: 200px;
+  height: 100px;
+  width: 100px;
   margin: 5px;
   background-color: #FCF2EC;
   
