@@ -43,3 +43,8 @@ footer {
   border-color: #1AEDEF ;
   border-style: double;
 }
+
+.setwidth{
+  flex-basis: 100px;
+  flex-grow: 1;
+}
